@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func integerExample() {
+func integerExamples() {
 
 	var myInteger int 
 	fmt.Println(myInteger)
