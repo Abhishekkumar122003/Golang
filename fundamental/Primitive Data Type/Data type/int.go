@@ -2,8 +2,10 @@ package main
 
 import "fmt"
 
-func integerExamples() {
+func main() {
 
 	var myInteger int 
-	fmt.Println(myInteger)
+	fmt.Println(myInteger);
+	myInteger= 492348976698264872;
+	fmt.Print(myInteger)
 }
