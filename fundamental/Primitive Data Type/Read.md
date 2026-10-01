@@ -11,3 +11,5 @@ Primitive Data Type
 3. Go support unicode strings.
 4. Numbers - int, float, complex.
 5. The concept of zero values in Go.
+
+
